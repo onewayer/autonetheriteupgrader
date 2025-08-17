@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "nineb-works",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "9B Works Addons",
   "description": "An addon template for Meteor Client addons.",
   "authors": [
-    "seasnail"
+    "onewayer",
+    "zephiric"
   ],
   "contact": {
     "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
